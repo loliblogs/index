@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lolifamily.js.org/api/status.html</loc>
+    
+    <lastmod>2023-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lolifamily.js.org/package-lock.json</loc>
     
     <lastmod>2023-06-26</lastmod>
@@ -110,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lolifamily.js.org/403.html</loc>
+    <loc>https://blog.lolifamily.js.org/404.html</loc>
     
     <lastmod>2021-02-08</lastmod>
     
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lolifamily.js.org/404.html</loc>
+    <loc>https://blog.lolifamily.js.org/403.html</loc>
     
     <lastmod>2021-02-08</lastmod>
     
