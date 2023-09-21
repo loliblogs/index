@@ -11,8 +11,8 @@ https://blog.lolifamily.js.org/servers/
 https://blog.lolifamily.js.org/tags/
 https://blog.lolifamily.js.org/categories/
 https://blog.lolifamily.js.org/post/2018/04/26/encrypt-helloworld/
-https://blog.lolifamily.js.org/404.html
 https://blog.lolifamily.js.org/403.html
+https://blog.lolifamily.js.org/404.html
 https://blog.lolifamily.js.org/
 https://blog.lolifamily.js.org/tags/%E6%B5%8B%E8%AF%95/
 https://blog.lolifamily.js.org/categories/%E6%B5%8B%E8%AF%95/
